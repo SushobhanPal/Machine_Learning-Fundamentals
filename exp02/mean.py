@@ -1,1 +1,0 @@
-print("i am sushobhan pal")
