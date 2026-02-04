@@ -7,5 +7,9 @@
   MeanMedianMode- Exp01
   
   Numpy and pandas basics- Exp02
+
+  MatplotLib-exp03
   
-  LinearRegression- Exp04
+  SimpleLinearRegression- Exp04
+
+  MultipleLinearRegression-Exp05
