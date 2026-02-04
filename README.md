@@ -8,7 +8,7 @@
   
   Numpy and pandas basics- Exp02
 
-  MatplotLib-exp03
+  MatplotLib- Exp03
   
   SimpleLinearRegression- Exp04
 
