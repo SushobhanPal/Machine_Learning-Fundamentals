@@ -13,3 +13,5 @@
   SimpleLinearRegression- Exp04
 
   MultipleLinearRegression-Exp05
+
+  MultivariantRegression-Exp06
