@@ -17,3 +17,5 @@
   MultivariantRegression-Exp06
 
   LogisticRegression-Exp07
+
+  KNN and Naive Bayes-Exp08
