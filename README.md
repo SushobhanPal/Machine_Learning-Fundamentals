@@ -15,3 +15,5 @@
   MultipleLinearRegression-Exp05
 
   MultivariantRegression-Exp06
+
+  LogisticRegression-Exp07
