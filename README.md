@@ -21,4 +21,4 @@
   KNN and Naive Bayes-Exp08
 
 
- ###### All of the code in this is push by Sushobhan Pal from different git hub accounts
+ ###### All the codes in this is pushed by Sushobhan Pal from different git hub accounts
